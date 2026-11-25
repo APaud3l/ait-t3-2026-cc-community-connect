@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Community Technology Workshop",
+    "event_date": "2026-12-05",
+    "location": "Sydney"
+  },
+  {
+    "id": 2,
+    "title": "Local Volunteer Meetup",
+    "event_date": "2027-01-15",
+    "location": "Parramatta"
+  },
+  {
+    "id": 3,
+    "title": "Community Networking Day",
+    "event_date": "2027-02-03",
+    "location": "Chatswood"
+  }
+]
