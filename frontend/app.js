@@ -1,6 +1,7 @@
+const API_BASE_URL = "YOUR_API_BASE_URL"; // Replace with your actual API base URL
 
 async function apiRequest(path, options = {}) {
-  const response = await fetch(path, options);
+  const response = await fetch(`${API_BASE_URL}${path}`, options);
   const data = await response.json();
 
   if (!response.ok) {
